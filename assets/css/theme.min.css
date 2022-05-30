@@ -10319,7 +10319,8 @@ fieldset:disabled .btn {
 }
 
 .text-500 {
-  color: var(--freya-500) !important;
+  color: black;
+  font-family: "Source Sans Pro", sans-serif;
 }
 
 .text-600 {
